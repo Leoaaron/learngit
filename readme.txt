@@ -1,3 +1,7 @@
 git is a version control system.
 git is a free software.
-goto branch newb & feature.
+<<<<<<< HEAD
+goto branch newb AND feature.
+=======
+goto branch newb and feature.
+>>>>>>> feature1
